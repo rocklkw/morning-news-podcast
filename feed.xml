@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Fri, 23 Oct 2026 23:31:35 -0700</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 07:26:47 -0700</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-10-24（星期六）</title>
+   <description>俄烏奧列什基人道停火、颱風薔琵災情、油價飆破百元、OpenAI 斷網訓練與折疊 iPhone 開賣</description>
+   <itunes:summary>俄烏奧列什基人道停火、颱風薔琵災情、油價飆破百元、OpenAI 斷網訓練與折疊 iPhone 開賣</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-10-24.mp3" length="6113232" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-10-24</guid>
+   <pubDate>Sat, 24 Oct 2026 07:15:00 -0700</pubDate>
+   <itunes:duration>00:16:58</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-10-23（星期五）</title>
    <description>荷姆茲海峽油輪遇襲、美國、台灣、澳洲動態，以及財經市場與科技新聞。</description>

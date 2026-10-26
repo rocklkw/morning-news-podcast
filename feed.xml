@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sun, 25 Oct 2026 07:27:50 -0700</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 07:36:07 -0700</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-10-26（星期一）</title>
+   <description>巴西魯拉連任、塞爾維亞政黨輪替、以色列大選前夕、美國期中選舉、台灣選戰與唐嘉鴻奪金、澳洲國會復會、聯準會與科技財報週、Anthropic 申請上市</description>
+   <itunes:summary>巴西魯拉連任、塞爾維亞政黨輪替、以色列大選前夕、美國期中選舉、台灣選戰與唐嘉鴻奪金、澳洲國會復會、聯準會與科技財報週、Anthropic 申請上市</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-10-26.mp3" length="7603920" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-10-26</guid>
+   <pubDate>Mon, 26 Oct 2026 07:15:00 -0700</pubDate>
+   <itunes:duration>00:21:07</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-10-25（星期日）</title>
    <description>巴西總統決選、歐洲抗議潮、美國期中選舉倒數、薔琵颱風災情、西雪梨機場啟用、聯準會與科技財報週</description>

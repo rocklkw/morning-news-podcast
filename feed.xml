@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Wed, 28 Oct 2026 07:28:24 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 07:24:44 -0700</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-10-29（星期四）</title>
+   <description>西班牙高鐵事故、以色列大選僵局、聯準會按兵不動、中選會個資外洩、澳洲通膨4.3%、微軟谷歌財報</description>
+   <itunes:summary>西班牙高鐵事故、以色列大選僵局、聯準會按兵不動、中選會個資外洩、澳洲通膨4.3%、微軟谷歌財報</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-10-29.mp3" length="7416432" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-10-29</guid>
+   <pubDate>Thu, 29 Oct 2026 07:15:00 -0700</pubDate>
+   <itunes:duration>00:20:36</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-10-28（星期三）</title>
    <description>以色列大選僵局、西班牙高鐵事故、美國期中選舉倒數、台北市長選情、澳洲通膨、Anthropic 申請上市</description>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>Morning News (English)</title>
+  <link>https://rocklkw.github.io/morning-news-podcast/en/</link>
+  <atom:link href="https://rocklkw.github.io/morning-news-podcast/en/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-us</language>
+  <description>About 10 minutes of the top US and international news every morning.</description>
+  <itunes:summary>About 10 minutes of the top US and international news every morning.</itunes:summary>
+  <itunes:author>rocklkw</itunes:author>
+  <itunes:owner><itunes:name>rocklkw</itunes:name></itunes:owner>
+  <itunes:image href="https://rocklkw.github.io/morning-news-podcast/en/cover.png"/>
+  <image><url>https://rocklkw.github.io/morning-news-podcast/en/cover.png</url><title>Morning News (English)</title><link>https://rocklkw.github.io/morning-news-podcast/en/</link></image>
+  <itunes:category text="News"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <lastBuildDate>Wed, 28 Oct 2026 23:58:32 -0700</lastBuildDate>
+  <item>
+   <title>Morning News — Wednesday, Oct 28, 2026</title>
+   <description>Deadly Spain train crash, Israel election deadlock, Iran tensions, Fed holds rates, tech earnings, and the midterm home stretch.</description>
+   <itunes:summary>Deadly Spain train crash, Israel election deadlock, Iran tensions, Fed holds rates, tech earnings, and the midterm home stretch.</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-10-28.mp3" length="3354912" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-10-28</guid>
+   <pubDate>Wed, 28 Oct 2026 07:15:00 -0700</pubDate>
+   <itunes:duration>00:09:19</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
+ </channel>
+</rss>

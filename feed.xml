@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Thu, 29 Oct 2026 07:24:44 -0700</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 16:31:33 -0700</lastBuildDate>
+  <item>
+   <title>下午更新 2026-10-29（星期四）</title>
+   <description>下午更新：拉加德提前卸任、西班牙高鐵調度錄音曝光、司法部傳票加州選務、Alphabet與亞馬遜財報重挫、沈伯洋團隊遭駭</description>
+   <itunes:summary>下午更新：拉加德提前卸任、西班牙高鐵調度錄音曝光、司法部傳票加州選務、Alphabet與亞馬遜財報重挫、沈伯洋團隊遭駭</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-10-29-pm.mp3" length="5738112" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-10-29-pm</guid>
+   <pubDate>Thu, 29 Oct 2026 16:30:00 -0700</pubDate>
+   <itunes:duration>00:15:56</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-10-29（星期四）</title>
    <description>西班牙高鐵事故、以色列大選僵局、聯準會按兵不動、中選會個資外洩、澳洲通膨4.3%、微軟谷歌財報</description>

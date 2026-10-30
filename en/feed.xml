@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Thu, 29 Oct 2026 07:29:52 -0700</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 07:27:26 -0700</lastBuildDate>
+  <item>
+   <title>Morning News — Friday, Oct 30, 2026</title>
+   <description>Record $6B Binance crypto hack, North Korea missiles, midterms 4 days out, Iran letter, Israel deadlock, Amazon and Intel drag stocks</description>
+   <itunes:summary>Record $6B Binance crypto hack, North Korea missiles, midterms 4 days out, Iran letter, Israel deadlock, Amazon and Intel drag stocks</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-10-30.mp3" length="3461184" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-10-30</guid>
+   <pubDate>Fri, 30 Oct 2026 07:15:00 -0700</pubDate>
+   <itunes:duration>00:09:36</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Thursday, Oct 29, 2026</title>
    <description>Spain train crash toll hits 69, Israel election deadlock, Vance letter to Iran, Alphabet slump, strong GDP, and remembering Dolores Huerta.</description>

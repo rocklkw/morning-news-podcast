@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sat, 31 Oct 2026 07:33:36 -0700</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 07:37:48 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Sunday, Nov 1, 2026</title>
+   <description>Midterms two days out, FBI blames North Korea for Binance hack, Iran talks in Doha, Oleshky truce ends, Valkyries win WNBA title</description>
+   <itunes:summary>Midterms two days out, FBI blames North Korea for Binance hack, Iran talks in Doha, Oleshky truce ends, Valkyries win WNBA title</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-01.mp3" length="3395468" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-01</guid>
+   <pubDate>Sun, 01 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:09:25</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Saturday, Oct 31, 2026</title>
    <description>Record early voting before the midterms, Alaska ballot fight, tech stock sell-off, Hormuz tankers and Iran talks</description>

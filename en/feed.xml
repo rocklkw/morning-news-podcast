@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sun, 01 Nov 2026 07:37:48 -0800</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 07:47:31 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Monday, Nov 2, 2026</title>
+   <description>Election Eve: Senate control on the line, a Michigan shake-up, Iran talks stall, and Ukraine truce ends</description>
+   <itunes:summary>Election Eve: Senate control on the line, a Michigan shake-up, Iran talks stall, and Ukraine truce ends</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-02.mp3" length="3380204" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-02</guid>
+   <pubDate>Mon, 02 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:09:23</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Sunday, Nov 1, 2026</title>
    <description>Midterms two days out, FBI blames North Korea for Binance hack, Iran talks in Doha, Oleshky truce ends, Valkyries win WNBA title</description>

@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Mon, 02 Nov 2026 07:29:37 -0800</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 07:23:18 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-03（星期二）</title>
+   <description>美國期中選舉投票、美伊談判與荷莫茲海峽、台股重挫與永豐銀異常轉帳、澳洲升息、墨爾本盃、蘋果財報與科技資安</description>
+   <itunes:summary>美國期中選舉投票、美伊談判與荷莫茲海峽、台股重挫與永豐銀異常轉帳、澳洲升息、墨爾本盃、蘋果財報與科技資安</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-03.mp3" length="7507152" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-03</guid>
+   <pubDate>Tue, 03 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:20:51</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-02（星期一）</title>
    <description>美伊談判荷莫茲海峽、美國期中選舉前夕、台灣九合一選戰、澳洲央行升息預期、科技股重挫與幣安駭客案</description>

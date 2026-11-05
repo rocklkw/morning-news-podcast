@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Wed, 04 Nov 2026 07:26:14 -0800</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 07:23:07 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-05（星期四）</title>
+   <description>美國期中選舉民主黨大勝、台股重挫、英國升息、David Jones 倒閉、資料中心反彈</description>
+   <itunes:summary>美國期中選舉民主黨大勝、台股重挫、英國升息、David Jones 倒閉、資料中心反彈</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-05.mp3" length="5983920" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-05</guid>
+   <pubDate>Thu, 05 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:16:37</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-04（星期三）</title>
    <description>美國期中選舉民主黨拿下參眾兩院、美軍打擊伊朗格什姆島、台股受選舉衝擊、澳洲銀行跟進升息、AMD財報亮眼</description>

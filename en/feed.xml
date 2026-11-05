@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Wed, 04 Nov 2026 07:41:54 -0800</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 07:32:58 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Thursday, Nov 5, 2026</title>
+   <description>Midterm fallout, Hormuz tanker fires, and Bank of England rate hike</description>
+   <itunes:summary>Midterm fallout, Hormuz tanker fires, and Bank of England rate hike</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-05.mp3" length="3185804" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-05</guid>
+   <pubDate>Thu, 05 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:08:50</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Wednesday, Nov 4, 2026</title>
    <description>Democrats win both House and Senate in a midterm wave; US-Iran talks and Qeshm strike; deadly Russian strike in Zaporizhzhia; Spain minister resigns; Europe cyberattacks.</description>

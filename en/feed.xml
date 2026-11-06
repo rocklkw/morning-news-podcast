@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Thu, 05 Nov 2026 07:32:58 -0800</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 11:43:44 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Friday, Nov 6, 2026</title>
+   <description>Top US and international news.</description>
+   <itunes:summary>Top US and international news.</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-06.mp3" length="1908288" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-06</guid>
+   <pubDate>Fri, 06 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:05:18</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Thursday, Nov 5, 2026</title>
    <description>Midterm fallout, Hormuz tanker fires, and Bank of England rate hike</description>

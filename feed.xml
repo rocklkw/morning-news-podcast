@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Thu, 05 Nov 2026 07:23:07 -0800</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 07:30:47 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-06（星期五）</title>
+   <description>美期中餘波與伊朗戰火、台股破四萬護盤、巴拉圭總統請辭、華爾街AI股暴跌反彈</description>
+   <itunes:summary>美期中餘波與伊朗戰火、台股破四萬護盤、巴拉圭總統請辭、華爾街AI股暴跌反彈</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-06.mp3" length="5903136" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-06</guid>
+   <pubDate>Fri, 06 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:16:23</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-05（星期四）</title>
    <description>美國期中選舉民主黨大勝、台股重挫、英國升息、David Jones 倒閉、資料中心反彈</description>

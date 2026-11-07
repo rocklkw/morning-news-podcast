@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Fri, 06 Nov 2026 11:43:44 -0800</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 07:34:41 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Saturday, Nov 7, 2026</title>
+   <description>Miller becomes White House chief of staff; limited U.S. strikes on Iran; Abu Dhabi Ukraine talks set; strong jobs report; Europe bomb threats; Paraguay president ousted.</description>
+   <itunes:summary>Miller becomes White House chief of staff; limited U.S. strikes on Iran; Abu Dhabi Ukraine talks set; strong jobs report; Europe bomb threats; Paraguay president ousted.</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-07.mp3" length="3298988" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-07</guid>
+   <pubDate>Sat, 07 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:09:09</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Friday, Nov 6, 2026</title>
    <description>Top US and international news.</description>

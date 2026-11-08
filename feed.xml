@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sat, 07 Nov 2026 07:19:46 -0800</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 07:23:16 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-08（星期日）</title>
+   <description>美軍阿曼灣擊傷封鎖商船、以色列艾森科特組閣、米勒任白宮幕僚長、第二批F-16V抵台、國安基金進場、澳洲保留維多利亞軍營、AI股重挫</description>
+   <itunes:summary>美軍阿曼灣擊傷封鎖商船、以色列艾森科特組閣、米勒任白宮幕僚長、第二批F-16V抵台、國安基金進場、澳洲保留維多利亞軍營、AI股重挫</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-08.mp3" length="7458624" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-08</guid>
+   <pubDate>Sun, 08 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:20:43</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-07（星期六）</title>
    <description>美國期中選舉後米勒接任白宮幕僚長、台股重挫國安基金護盤、澳洲升息、AI 股震盪與科技新聞</description>

@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sun, 08 Nov 2026 07:32:42 -0800</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 07:41:33 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Monday, Nov 9, 2026</title>
+   <description>Iran strikes and talks, Stephen Miller and the new Congress, Ukraine talks in Abu Dhabi, Israel, COP31, and Nvidia</description>
+   <itunes:summary>Iran strikes and talks, Stephen Miller and the new Congress, Ukraine talks in Abu Dhabi, Israel, COP31, and Nvidia</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-09.mp3" length="3310076" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-09</guid>
+   <pubDate>Mon, 09 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:09:11</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Sunday, Nov 8, 2026</title>
    <description>US disables cargo ship near Iran, Eisenkot to form Israeli government, Kraków shooting, Miller named chief of staff, and Wall Street&#x27;s worst week since April 2025</description>

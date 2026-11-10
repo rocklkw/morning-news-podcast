@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Mon, 09 Nov 2026 07:28:33 -0800</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 07:27:53 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-10（星期二）</title>
+   <description>俄烏阿布達比和談、川普稱伊朗戰爭近尾聲、黃仁勳風波延燒、台股大反彈、澳洲成立AI監管機構、美國通膨偏熱</description>
+   <itunes:summary>俄烏阿布達比和談、川普稱伊朗戰爭近尾聲、黃仁勳風波延燒、台股大反彈、澳洲成立AI監管機構、美國通膨偏熱</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-10.mp3" length="7730496" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-10</guid>
+   <pubDate>Tue, 10 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:21:28</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-09（星期一）</title>
    <description>伊朗與俄烏談判、美國新國會、台股國安基金護盤大反彈、澳洲數位安全聽證、輝達黃仁勳風波</description>

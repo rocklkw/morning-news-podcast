@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Thu, 12 Nov 2026 07:28:33 -0800</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 07:31:13 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-13（星期五）</title>
+   <description>黃仁勳辭任輝達執行長、伊朗攻擊美軍雷達、俄烏大規模換俘、微軟大當機、台灣產假延至14週、澳洲背包客簽證轉彎、Anthropic上市在即</description>
+   <itunes:summary>黃仁勳辭任輝達執行長、伊朗攻擊美軍雷達、俄烏大規模換俘、微軟大當機、台灣產假延至14週、澳洲背包客簽證轉彎、Anthropic上市在即</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-13.mp3" length="7705152" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-13</guid>
+   <pubDate>Fri, 13 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:21:24</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-12（星期四）</title>
    <description>黃仁勳辭任輝達執行長、密西西比州歷史性選舉、俄烏換俘、台灣選戰與個資外洩、澳洲COP31與房貸</description>

@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Thu, 12 Nov 2026 07:37:32 -0800</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 07:44:32 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Friday, Nov 13, 2026</title>
+   <description>Microsoft global outage, Nvidia after Jensen Huang, Van Hollen challenges Schumer, Iran tensions, Ukraine prisoner swap</description>
+   <itunes:summary>Microsoft global outage, Nvidia after Jensen Huang, Van Hollen challenges Schumer, Iran tensions, Ukraine prisoner swap</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-13.mp3" length="3466316" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-13</guid>
+   <pubDate>Fri, 13 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:09:37</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Thursday, Nov 12, 2026</title>
    <description>Nvidia CEO Jensen Huang resigns, Scott Colom makes history in Mississippi, deadly Brooklyn building collapse, Ukraine-Russia prisoner swap deal, and markets</description>

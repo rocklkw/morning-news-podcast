@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Fri, 13 Nov 2026 07:31:13 -0800</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 07:20:57 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-14（星期六）</title>
+   <description>美國全國航班停飛逾四小時、川習普深圳三方會談、輝達風波延燒國會、台灣產假延至14週、澳洲房市降溫、美股週線收紅</description>
+   <itunes:summary>美國全國航班停飛逾四小時、川習普深圳三方會談、輝達風波延燒國會、台灣產假延至14週、澳洲房市降溫、美股週線收紅</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-14.mp3" length="8612588" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-14</guid>
+   <pubDate>Sat, 14 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:23:55</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-13（星期五）</title>
    <description>黃仁勳辭任輝達執行長、伊朗攻擊美軍雷達、俄烏大規模換俘、微軟大當機、台灣產假延至14週、澳洲背包客簽證轉彎、Anthropic上市在即</description>

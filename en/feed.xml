@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sat, 14 Nov 2026 07:41:39 -0800</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 07:47:47 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Sunday, Nov 15, 2026</title>
+   <description>Iran strikes at Bahrain again, a NATO-for-Donbas idea in Ukraine talks, the Trump-Xi-Putin summit ahead, flight recovery after the FAA ground stop, and Nvidia after Jensen Huang</description>
+   <itunes:summary>Iran strikes at Bahrain again, a NATO-for-Donbas idea in Ukraine talks, the Trump-Xi-Putin summit ahead, flight recovery after the FAA ground stop, and Nvidia after Jensen Huang</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-15.mp3" length="3380060" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-15</guid>
+   <pubDate>Sun, 15 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:09:23</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Saturday, Nov 14, 2026</title>
    <description>Nationwide FAA ground stop, Trump-Xi-Putin summit plan, Iran tensions, Ukraine talks, Supreme Court asylum case, markets</description>

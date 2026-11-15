@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sat, 14 Nov 2026 07:20:57 -0800</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 07:20:12 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-15（星期日）</title>
+   <description>伊朗攻擊巴林美軍基地、美國航空大當機後續、美中俄深圳峰會、台灣選前黃金週末、澳菲國防協議、輝達風波與美股、ChatGPT 錢包</description>
+   <itunes:summary>伊朗攻擊巴林美軍基地、美國航空大當機後續、美中俄深圳峰會、台灣選前黃金週末、澳菲國防協議、輝達風波與美股、ChatGPT 錢包</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-15.mp3" length="7176240" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-15</guid>
+   <pubDate>Sun, 15 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:19:56</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-14（星期六）</title>
    <description>美國全國航班停飛逾四小時、川習普深圳三方會談、輝達風波延燒國會、台灣產假延至14週、澳洲房市降溫、美股週線收紅</description>

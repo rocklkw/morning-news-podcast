@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sun, 15 Nov 2026 07:47:47 -0800</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 07:38:14 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Monday, Nov 16, 2026</title>
+   <description>Iran-US tensions escalate in the Gulf, Trump heads to a historic Xi-Putin summit, Ukraine strikes Russia, flights recover, and a big week for Nvidia and the Anthropic IPO</description>
+   <itunes:summary>Iran-US tensions escalate in the Gulf, Trump heads to a historic Xi-Putin summit, Ukraine strikes Russia, flights recover, and a big week for Nvidia and the Anthropic IPO</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-16.mp3" length="3454848" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-16</guid>
+   <pubDate>Mon, 16 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:09:35</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Sunday, Nov 15, 2026</title>
    <description>Iran strikes at Bahrain again, a NATO-for-Donbas idea in Ukraine talks, the Trump-Xi-Putin summit ahead, flight recovery after the FAA ground stop, and Nvidia after Jensen Huang</description>

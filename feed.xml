@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Mon, 16 Nov 2026 07:26:40 -0800</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 07:24:59 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-17（星期二）</title>
+   <description>克里米亞大橋遭重創、川普亞洲行與美中俄峰會、台股兩天狂跌、澳洲背包客簽證轉彎、輝達財報與Anthropic上市</description>
+   <itunes:summary>克里米亞大橋遭重創、川普亞洲行與美中俄峰會、台股兩天狂跌、澳洲背包客簽證轉彎、輝達財報與Anthropic上市</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-17.mp3" length="5898672" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-17</guid>
+   <pubDate>Tue, 17 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:16:23</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-16（星期一）</title>
    <description>伊朗再襲巴林、荷姆茲油輪遇襲；烏克蘭創紀錄無人機攻擊重創克里米亞大橋；川普啟程赴亞洲準備美中俄峰會；台股重挫2635點、九合一倒數12天；艾班尼斯出席東協峰會；輝達財報與Anthropic上市的AI關鍵週</description>

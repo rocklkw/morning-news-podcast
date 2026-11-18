@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Tue, 17 Nov 2026 07:39:19 -0800</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 07:27:19 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Wednesday, Nov 18, 2026</title>
+   <description>Trump lands in China for a historic summit with Xi and Putin, Iran strikes Kuwait and Bahrain, Peltola wins Alaska, US loses measles elimination status, and Voyager 1 reaches one light-day</description>
+   <itunes:summary>Trump lands in China for a historic summit with Xi and Putin, Iran strikes Kuwait and Bahrain, Peltola wins Alaska, US loses measles elimination status, and Voyager 1 reaches one light-day</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-18.mp3" length="2774736" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-18</guid>
+   <pubDate>Wed, 18 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:07:42</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Tuesday, Nov 17, 2026</title>
    <description>Ukraine strikes the Kerch Bridge, Trump lands in Manila, Iran tensions, Chase glitch, US loses measles elimination status, and a jittery AI week on Wall Street</description>

@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Tue, 17 Nov 2026 07:24:59 -0800</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 07:25:58 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-18（星期三）</title>
+   <description>川普抵深圳APEC將與習近平、普丁三方會談；美伊衝突升溫；民主黨拿下參議院56席；九合一倒數與台股翻紅；艾班尼斯訪中；輝達財報優於預期、Anthropic今日定價</description>
+   <itunes:summary>川普抵深圳APEC將與習近平、普丁三方會談；美伊衝突升溫；民主黨拿下參議院56席；九合一倒數與台股翻紅；艾班尼斯訪中；輝達財報優於預期、Anthropic今日定價</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-18.mp3" length="10827936" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-18</guid>
+   <pubDate>Wed, 18 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:30:04</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-17（星期二）</title>
    <description>克里米亞大橋遭重創、川普亞洲行與美中俄峰會、台股兩天狂跌、澳洲背包客簽證轉彎、輝達財報與Anthropic上市</description>

@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Wed, 18 Nov 2026 07:25:58 -0800</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 07:29:39 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-19（星期四）</title>
+   <description>美中俄深圳三方會談發表和平宣言、中方稱川普不支持台獨；國際法院判緬甸種族滅絕；台股重挫1768點；傑佛瑞斯獲提名議長；澳洲失業率4.9%；Anthropic史上最大IPO上市、GTA六開賣</description>
+   <itunes:summary>美中俄深圳三方會談發表和平宣言、中方稱川普不支持台獨；國際法院判緬甸種族滅絕；台股重挫1768點；傑佛瑞斯獲提名議長；澳洲失業率4.9%；Anthropic史上最大IPO上市、GTA六開賣</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-19.mp3" length="6803712" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-19</guid>
+   <pubDate>Thu, 19 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:18:53</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-18（星期三）</title>
    <description>川普抵深圳APEC將與習近平、普丁三方會談；美伊衝突升溫；民主黨拿下參議院56席；九合一倒數與台股翻紅；艾班尼斯訪中；輝達財報優於預期、Anthropic今日定價</description>

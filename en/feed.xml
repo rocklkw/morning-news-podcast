@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Wed, 18 Nov 2026 07:27:19 -0800</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 07:48:49 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Thursday, Nov 19, 2026</title>
+   <description>Rohingya genocide ruling, Ukraine strikes Crimea bridge, Iran widens Gulf attacks, Jeffries on track for Speaker, Anthropic market debut</description>
+   <itunes:summary>Rohingya genocide ruling, Ukraine strikes Crimea bridge, Iran widens Gulf attacks, Jeffries on track for Speaker, Anthropic market debut</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-19.mp3" length="2643264" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-19</guid>
+   <pubDate>Thu, 19 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:07:20</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Wednesday, Nov 18, 2026</title>
    <description>Trump lands in China for a historic summit with Xi and Putin, Iran strikes Kuwait and Bahrain, Peltola wins Alaska, US loses measles elimination status, and Voyager 1 reaches one light-day</description>

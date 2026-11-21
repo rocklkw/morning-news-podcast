@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Fri, 20 Nov 2026 07:34:05 -0800</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 07:32:27 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Saturday, Nov 21, 2026</title>
+   <description>AI stocks sink Wall Street, Trump eyes deals with Democrats, tankers hit near Hormuz, UK-EU deal, COP31 deadlock, Peru quake</description>
+   <itunes:summary>AI stocks sink Wall Street, Trump eyes deals with Democrats, tankers hit near Hormuz, UK-EU deal, COP31 deadlock, Peru quake</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-21.mp3" length="3592512" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-21</guid>
+   <pubDate>Sat, 21 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:09:58</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Friday, Nov 20, 2026</title>
    <description>Trump-Xi-Putin summit fallout, Iran war funding fight, Hormuz tanker attacks, ICJ Myanmar genocide ruling, and Anthropic IPO amid a market slide</description>

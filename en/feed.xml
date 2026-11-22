@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sat, 21 Nov 2026 07:32:27 -0800</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 07:44:20 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Sunday, Nov 22, 2026</title>
+   <description>COP31 talks near collapse, Kyiv drone strike, Iran-US jet claims, Wall Street worst week in years, and the El Chapo Isidro arrest</description>
+   <itunes:summary>COP31 talks near collapse, Kyiv drone strike, Iran-US jet claims, Wall Street worst week in years, and the El Chapo Isidro arrest</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-22.mp3" length="3535632" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-22</guid>
+   <pubDate>Sun, 22 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:09:49</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Saturday, Nov 21, 2026</title>
    <description>AI stocks sink Wall Street, Trump eyes deals with Democrats, tankers hit near Hormuz, UK-EU deal, COP31 deadlock, Peru quake</description>

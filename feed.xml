@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sat, 21 Nov 2026 07:24:52 -0800</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 07:24:41 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-22（星期日）</title>
+   <description>COP31延長賽、美伊荷莫茲角力、美台股AI大跌、普發2萬三讀、九合一倒數、金馬獎</description>
+   <itunes:summary>COP31延長賽、美伊荷莫茲角力、美台股AI大跌、普發2萬三讀、九合一倒數、金馬獎</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-22.mp3" length="6250320" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-22</guid>
+   <pubDate>Sun, 22 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:17:21</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-21（星期六）</title>
    <description>AI 賣壓重創美台股、荷姆茲海峽油輪遇襲、普發兩萬三讀、澳中啟動 AI 對話</description>

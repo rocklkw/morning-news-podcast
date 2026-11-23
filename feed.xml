@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Sun, 22 Nov 2026 07:24:41 -0800</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 07:22:09 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-23（星期一）</title>
+   <description>黃仁勳回任輝達、美股大反彈、民主黨眾院大勝、COP31破局、台股護盤與九合一倒數、澳洲經濟警訊</description>
+   <itunes:summary>黃仁勳回任輝達、美股大反彈、民主黨眾院大勝、COP31破局、台股護盤與九合一倒數、澳洲經濟警訊</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-23.mp3" length="6947568" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-23</guid>
+   <pubDate>Mon, 23 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:19:17</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-22（星期日）</title>
    <description>COP31延長賽、美伊荷莫茲角力、美台股AI大跌、普發2萬三讀、九合一倒數、金馬獎</description>

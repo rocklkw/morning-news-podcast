@@ -14,11 +14,11 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Mon, 23 Nov 2026 07:28:13 -0800</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 07:50:04 -0800</lastBuildDate>
   <item>
    <title>Morning News — Monday, Nov 23, 2026</title>
-   <description>Wall Street rebounds as Nvidia reinstates Jensen Huang, COP31 ends without a deal, Ukraine war widens, Democrats lock in big House majority</description>
-   <itunes:summary>Wall Street rebounds as Nvidia reinstates Jensen Huang, COP31 ends without a deal, Ukraine war widens, Democrats lock in big House majority</itunes:summary>
+   <description>English morning news briefing for Nov 23, 2026</description>
+   <itunes:summary>English morning news briefing for Nov 23, 2026</itunes:summary>
    <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-23.mp3" length="3204576" type="audio/mpeg"/>
    <guid isPermaLink="false">morning-news-en-2026-11-23</guid>
    <pubDate>Mon, 23 Nov 2026 07:15:00 -0800</pubDate>

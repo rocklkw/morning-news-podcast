@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Tue, 24 Nov 2026 07:23:37 -0800</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 07:24:21 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-25（星期三）</title>
+   <description>荷莫茲油輪觸雷、美國新關稅、台股重挫與選前衝刺、澳洲通膨4.9%、AI股賣壓、華為定罪</description>
+   <itunes:summary>荷莫茲油輪觸雷、美國新關稅、台股重挫與選前衝刺、澳洲通膨4.9%、AI股賣壓、華為定罪</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-25.mp3" length="4837248" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-25</guid>
+   <pubDate>Wed, 25 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:13:26</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-24（星期二）</title>
    <description>荷莫茲油輪觸雷、黃仁勳重返輝達美台股大漲、台灣九合一選前、澳洲重罰科技巨頭、感恩節風暴</description>

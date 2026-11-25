@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Tue, 24 Nov 2026 07:21:57 -0800</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 07:27:36 -0800</lastBuildDate>
+  <item>
+   <title>Morning News — Wednesday, Nov 25, 2026</title>
+   <description>Thanksgiving eve: new US tariffs on China and the EU, Huawei convicted, Nvidia swings, Hormuz tanker mines, Ukraine power strikes, and Pakistan first astronaut on China station</description>
+   <itunes:summary>Thanksgiving eve: new US tariffs on China and the EU, Huawei convicted, Nvidia swings, Hormuz tanker mines, Ukraine power strikes, and Pakistan first astronaut on China station</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/en/episodes/2026-11-25.mp3" length="3181248" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-en-2026-11-25</guid>
+   <pubDate>Wed, 25 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:08:50</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>Morning News — Tuesday, Nov 24, 2026</title>
    <description>Nvidia rally as Jensen Huang returns, a record Democratic House majority, Hormuz tanker blasts, Ukraine strikes off Libya, and a stormy Thanksgiving forecast</description>

@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Wed, 25 Nov 2026 07:24:21 -0800</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 07:25:47 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-26（星期四）</title>
+   <description>美國新關稅、中東緊張、台灣九合一倒數、澳洲通膨4.9%、美股AI震盪、SpaceX百萬顆AI衛星</description>
+   <itunes:summary>美國新關稅、中東緊張、台灣九合一倒數、澳洲通膨4.9%、美股AI震盪、SpaceX百萬顆AI衛星</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-26.mp3" length="6714144" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-26</guid>
+   <pubDate>Thu, 26 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:18:39</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-25（星期三）</title>
    <description>荷莫茲油輪觸雷、美國新關稅、台股重挫與選前衝刺、澳洲通膨4.9%、AI股賣壓、華為定罪</description>

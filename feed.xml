@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Thu, 26 Nov 2026 07:25:47 -0800</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 07:27:17 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-27（星期五）</title>
+   <description>感恩節風暴、台灣九合一選前之夜、澳洲天然氣保留機制、黑色星期五美股與輝達出口管制</description>
+   <itunes:summary>感恩節風暴、台灣九合一選前之夜、澳洲天然氣保留機制、黑色星期五美股與輝達出口管制</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-27.mp3" length="5990256" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-27</guid>
+   <pubDate>Fri, 27 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:16:38</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-26（星期四）</title>
    <description>美國新關稅、中東緊張、台灣九合一倒數、澳洲通膨4.9%、美股AI震盪、SpaceX百萬顆AI衛星</description>

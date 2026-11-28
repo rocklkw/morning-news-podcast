@@ -14,7 +14,18 @@
   <itunes:category text="News"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
-  <lastBuildDate>Fri, 27 Nov 2026 07:27:17 -0800</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 07:22:43 -0800</lastBuildDate>
+  <item>
+   <title>早晨新聞 2026-11-28（星期六）</title>
+   <description>台灣九合一選舉與核電公投結果、澳洲維州政黨輪替、荷莫茲海峽緊張、川普新關稅、美股最佳一週與黃仁勳回任輝達</description>
+   <itunes:summary>台灣九合一選舉與核電公投結果、澳洲維州政黨輪替、荷莫茲海峽緊張、川普新關稅、美股最佳一週與黃仁勳回任輝達</itunes:summary>
+   <enclosure url="https://rocklkw.github.io/morning-news-podcast/episodes/2026-11-28.mp3" length="6651792" type="audio/mpeg"/>
+   <guid isPermaLink="false">morning-news-2026-11-28</guid>
+   <pubDate>Sat, 28 Nov 2026 07:15:00 -0800</pubDate>
+   <itunes:duration>00:18:28</itunes:duration>
+   <itunes:explicit>false</itunes:explicit>
+   <itunes:episodeType>full</itunes:episodeType>
+  </item>
   <item>
    <title>早晨新聞 2026-11-27（星期五）</title>
    <description>感恩節風暴、台灣九合一選前之夜、澳洲天然氣保留機制、黑色星期五美股與輝達出口管制</description>
